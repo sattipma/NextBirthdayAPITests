@@ -21,6 +21,8 @@ Follow the steps below to run the tests:
    `mvn test`
 5. After the tests are executed, a test report will be generated in the `target/surefire-reports` directory.
 Open the `index.html` file in a web browser to view the test results.
+** Sample Report **
+![image](https://user-images.githubusercontent.com/42676603/232156265-e544f697-fbc5-4090-bf6a-e1d10d7e64f6.png)
 
 ## Modifying the tests
 
